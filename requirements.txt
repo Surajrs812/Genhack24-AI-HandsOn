@@ -1,0 +1,17 @@
+langchain-core==0.0.180  # For core messages like HumanMessage
+langchain-anthropic==0.0.4  # For ChatAnthropic integration
+langchain-google-genai==0.0.3  # For Google Generative AI embeddings and chat model
+langchain-groq==0.0.2  # For ChatGroq integration
+langchain-experimental==0.0.9  # For experimental tools and agent features
+streamlit==1.25.0  # For building interactive web apps
+PyPDF2==3.0.1  # For PDF reading capabilities
+faiss-cpu==1.7.4  # For FAISS vector storage
+google-generativeai==0.2.3  # For Google's Generative AI models
+requests==2.31.0  # For API requests
+pandas==2.0.3  # For DataFrame manipulations
+numpy==1.24.4  # For numerical computations
+python-dotenv==1.0.0  # For loading environment variables
+tabulate==0.9.0  # For displaying tabular data
+scikit-learn==1.3.0  # For machine learning models
+scipy==1.11.2  # For scientific computing
+matplotlib==3.8.0  # For data visualization
